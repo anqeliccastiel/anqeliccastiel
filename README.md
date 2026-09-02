@@ -1,4 +1,4 @@
-## ![](https://komarev.com/ghpvc/?username=everlastingtears&style=plastic&color=000000&label=☆) 
+## ![](https://komarev.com/ghpvc/?username=everlastingtears&style=plastic&color=a06d51&label=poets) 
 <!--
 **anqeliccastiel/anqeliccastiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
